@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm
 
-I'm Semidán
+![signature](signature.png)
 
-I'm a Bioinformatician and Ph.D. in Systems Biology from the Canary Islands (Spain)
+a Bioinformatician and a Ph.D. in Systems Biology from the Canary Islands (Spain)
 
 **About me**
 
-- 💼 Bioinformatician at [ULL](https://portalciencia.ull.es/investigadores/118137/detalle)
+- 💼 Bioinformatician (Marine microbiology) at [ULL](https://portalciencia.ull.es/investigadores/118137/detalle)
 
 - ❤️ Python, scientific programming, bioinformatics and building fun apps
 
