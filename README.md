@@ -8,7 +8,7 @@ I'm a Bioinformatician and Ph.D. in Systems Biology from the Canary Islands (Spa
 
 - 💼 Bioinformatician at [ULL](https://portalciencia.ull.es/investigadores/118137/detalle)
 
-- ❤️ I love Python, scientific programming, bioinformatics and building fun apps
+- ❤️ Python, scientific programming, bioinformatics and building fun apps
 
 - 💬 Open to collaborations!
 
