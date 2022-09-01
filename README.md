@@ -19,3 +19,8 @@ a Bioinformatician and a Ph.D. in Systems Biology from the Canary Islands (Spain
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+**Specialization Courses:**
+
+<a href="https://www.credly.com/badges/d7deb51f-7e5f-422f-8b4e-1bfd08b02b11/public_url"><img src="https://user-images.githubusercontent.com/21340147/188001680-c1fc28cc-3381-447c-b6a9-d2cbf900ff34.png" style="width:100px;"></a>
+<a href="https://www.credly.com/badges/243d313b-27af-47b6-aea0-ebdc252a1a57/public_url"><img src="https://user-images.githubusercontent.com/21340147/188000993-32a59174-ca8d-4750-b3a2-9c6b8e913eca.png" style="width:100px;"></a>
