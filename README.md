@@ -2,7 +2,7 @@
 
 ![signature](signature.png)
 
-a Bioinformatician and a Ph.D. in Systems Biology from the Canary Islands (Spain)
+a Bioinformatician and a Ph.D. in Systems Biology.
 
 **About me**
 
