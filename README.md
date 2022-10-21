@@ -8,7 +8,7 @@ a Bioinformatician and a Ph.D. in Systems Biology.
 
 - 💼 Bioinformatician (Marine microbiology) at [ULL](https://portalciencia.ull.es/investigadores/118137/detalle)
 
-- ❤️ Python, scientific programming, bioinformatics and building web apps
+- ❤️ Python, scientific programming, machine learning, bioinformatics, building web apps
 
 - 💬 Open to collaborations!
 
