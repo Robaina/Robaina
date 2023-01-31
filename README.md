@@ -1,6 +1,6 @@
 ![banner](banner1.png)
 
-### Hi there 👋, 
+### Hi 👋, 
 
 I'm Semi, a Bioinformatician and a Ph.D. in Systems Biology.
 
