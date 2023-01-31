@@ -1,8 +1,8 @@
-### Hi there 👋, I'm
+![banner](banner1.png)
 
-![signature](signature.png)
+### Hi there 👋, 
 
-a Bioinformatician and a Ph.D. in Systems Biology.
+I'm Semi, a Bioinformatician and a Ph.D. in Systems Biology.
 
 **About me**
 
