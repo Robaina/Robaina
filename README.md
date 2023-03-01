@@ -19,6 +19,10 @@ I'm Semi, a Bioinformatician and a Ph.D. in Systems Biology.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robaina&layout=compact&exclude_repo=Robaina.github.io,modeloEEI,mercaTenerife,crucerosTenerife,SimonGame,functionPlotter,mobiusArt,jsCalendar,Sudoku,VenusPentagram,SeaLevel,SquareSpiral,geoLocation,Octonions,cayley-dickson-calculator,BasinOfAttraction,microbiologia-webpages,googleTrends,Octonions,Magic-N-gon,OblateSpheroidal,AyumuGame,concentrationOrders,PlosComp2017,RegrEx,PCP2016&hide=html,jupyter%20%notebook&langs_count=10&hide_progress=false&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+### Currently working on:
+
+[TODO Project Board](https://github.com/users/Robaina/projects/2/views/4)
+
 ### Badges:
 
 <a href="https://www.credly.com/badges/0c11e1bf-f9e9-485a-b32a-5d1edf34abba/public_url" target="_blank"><img src="https://user-images.githubusercontent.com/21340147/194550943-3f0a9a64-38bc-43c6-8461-bdd90d497b99.png" style="width:100px;"></a>
