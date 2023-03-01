@@ -14,7 +14,7 @@ I'm Semi, a Bioinformatician and a Ph.D. in Systems Biology.
 
 **GitHub Stats**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Robaina&theme=transparent&hide_title=true&show_icons=true&include_all_commits=false&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Robaina&theme=transparent&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
 
 **Languages and Tools:**  
 
