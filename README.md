@@ -1,4 +1,3 @@
-![banner](banner1.png)
 
 ### Hi 👋, 
 
