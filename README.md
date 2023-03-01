@@ -33,7 +33,9 @@ I'm Semi. Here you'll find source code for packages, research scripts, and vario
 ### Get in touch:
 
 <p text-align="center">
+  
 [![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://semidanrobaina.com/)](https://semidanrobaina.com) 
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=@srobainae&logo=twitter&logoColor=%231DA1F2&style=flat&url=https://twitter.com/srobainae)](https://twitter.com/srobainae)
-[![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/semidan-robaina)](https://www.linkedin.com/in/semidan-robaina) 
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/semidan-robaina)](https://www.linkedin.com/in/semidan-robaina)
+
 </p>
