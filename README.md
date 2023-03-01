@@ -1,7 +1,7 @@
 
-### Hi 👋, 
+### Hi 👋,
 
-I'm Semi, a Bioinformatician and a Ph.D. in Systems Biology.
+I'm Semi. Here you'll find source code for packages, research scripts, and various other things.
 
 ### About me
 
@@ -29,3 +29,11 @@ I'm Semi, a Bioinformatician and a Ph.D. in Systems Biology.
 <a href="https://www.credly.com/badges/d7deb51f-7e5f-422f-8b4e-1bfd08b02b11/public_url" target="_blank"><img src="https://user-images.githubusercontent.com/21340147/188001680-c1fc28cc-3381-447c-b6a9-d2cbf900ff34.png" style="width:100px;"></a>
 <a href="https://www.credly.com/badges/243d313b-27af-47b6-aea0-ebdc252a1a57/public_url" target="_blank"><img src="https://user-images.githubusercontent.com/21340147/188000993-32a59174-ca8d-4750-b3a2-9c6b8e913eca.png" style="width:100px;"></a>
 <a href="https://www.credly.com/badges/ef9a9f43-1e6c-4d8e-807b-315b6d2be129/public_url" target="_blank"><img src="https://user-images.githubusercontent.com/21340147/198262072-1ea83474-635b-4cad-854f-7644d25f96f7.png" style="width:100px;"></a>
+
+### Get in touch:
+
+<p text-align="center">
+[![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://semidanrobaina.com/)](https://semidanrobaina.com) 
+[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=@srobainae&logo=twitter&logoColor=%231DA1F2&style=flat&url=https://twitter.com/srobainae)](https://twitter.com/srobainae)
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/semidan-robaina)](https://www.linkedin.com/in/semidan-robaina) 
+</p>
