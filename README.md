@@ -16,13 +16,9 @@ I'm Semi, a Bioinformatician and a Ph.D. in Systems Biology.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Robaina&theme=transparent&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
 
-**Languages and Tools:**  
+**Languages and Tools:** 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robaina&layout=compact&exclude_repo=Robaina.github.io,modeloEEI,mercaTenerife,crucerosTenerife,SimonGame,functionPlotter,mobiusArt,jsCalendar,Sudoku,VenusPentagram,SeaLevel,SquareSpiral,geoLocation,Octonions,cayley-dickson-calculator,BasinOfAttraction,microbiologia-webpages,googleTrends,Octonions,Magic-N-gon,OblateSpheroidal,AyumuGame,concentrationOrders,PlosComp2017,RegrEx,PCP2016&hide=html,jupyter%20%notebook&langs_count=10&hide_progress=false&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 **Badges:**
 
