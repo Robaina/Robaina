@@ -17,7 +17,7 @@ I'm Semi. Here you'll find source code for packages, research scripts, and vario
 
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robaina&layout=compact&exclude_repo=Robaina.github.io,modeloEEI,mercaTenerife,crucerosTenerife,SimonGame,functionPlotter,mobiusArt,jsCalendar,Sudoku,VenusPentagram,SeaLevel,SquareSpiral,geoLocation,Octonions,cayley-dickson-calculator,BasinOfAttraction,microbiologia-webpages,googleTrends,Octonions,OblateSpheroidal,AyumuGame,concentrationOrders,PlosComp2017,RegrEx,PCP2016&hide=html,jupyter%20%notebook&langs_count=10&hide_progress=false&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robaina&layout=compact&exclude_repo=Robaina.github.io,modeloEEI,mercaTenerife,crucerosTenerife,SimonGame,functionPlotter,mobiusArt,jsCalendar,Sudoku,SeaLevel,SquareSpiral,geoLocation,Octonions,cayley-dickson-calculator,BasinOfAttraction,microbiologia-webpages,googleTrends,Octonions,OblateSpheroidal,AyumuGame,concentrationOrders,PlosComp2017,RegrEx,PCP2016&hide=html,jupyter%20%notebook&langs_count=10&hide_progress=false&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently working on:
 
