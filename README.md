@@ -1,7 +1,7 @@
 
 ### Hi 👋,
 
-I'm Semi. Here you'll find source code for packages, research scripts, and fun projects I have worked on.
+I'm Semi. Here you'll find source code for packages, research scripts, and fun side projects I have worked on.
 
 ### About me
 
