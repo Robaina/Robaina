@@ -5,9 +5,9 @@ I'm Semi. Here you'll find source code for packages, research scripts, and fun s
 
 ### About me
 
-- 💼 Senior Bioinformatics Scientist at [ULL](https://portalciencia.ull.es/investigadores/118137/detalle)
+- 💼 Computational Systems Biologist at [New Atlantis Labs](https://github.com/new-atlantis-labs)
 
-- ❤️ Python, scientific programming, open source, machine learning, bioinformatics, building web apps
+- ❤️ Python, scientific programming, open source, machine learning, bioinformatics, computational biology, building web apps
 
 - 💬 Open to collaborations!
 
