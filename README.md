@@ -5,8 +5,6 @@ I'm Semi. Here you'll find source code for packages, research scripts, and fun s
 
 ### About me
 
-- 💼 Lead Systems Modelling Scientist at [New Atlantis Labs](https://github.com/new-atlantis-labs)
-
 - ❤️ Python, scientific programming, open source, machine learning, bioinformatics, computational biology, building web apps
 
 - 💬 Open to collaborations!
