@@ -5,7 +5,7 @@ I'm Semi. Here you'll find source code for packages, research scripts, and fun s
 
 ### About me
 
-- ❤️ Python, scientific programming, open source, machine learning, bioinformatics, computational biology, building web apps
+- ❤️ Python, scientific programming, open source, AI & machine learning, bioinformatics, computational biology, building web apps
 
 - 💬 Open to collaborations!
 
@@ -32,7 +32,7 @@ I'm Semi. Here you'll find source code for packages, research scripts, and fun s
 
 <p text-align="center">
   
-[![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://semidanrobaina.com/)](https://semidanrobaina.com) 
+[![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://semidanrobaina.com/)](https://oceanbiometrics.com) 
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=@srobainae&logo=twitter&logoColor=%231DA1F2&style=flat&url=https://twitter.com/srobainae)](https://twitter.com/srobainae)
 [![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/semidan-robaina)](https://www.linkedin.com/in/semidan-robaina)
 
