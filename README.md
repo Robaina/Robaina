@@ -28,7 +28,7 @@ I'm Semi. Here you'll find source code for packages, research scripts, and fun s
 
 <p text-align="center">
   
-[![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://semidanrobaina.com/)](https://oceanbiometrics.com) 
+[![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://hapdera.com/)](https://hapdera.com) 
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=@srobainae&logo=twitter&logoColor=%231DA1F2&style=flat&url=https://twitter.com/srobainae)](https://twitter.com/srobainae)
 [![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/semidan-robaina)](https://www.linkedin.com/in/semidan-robaina)
 
